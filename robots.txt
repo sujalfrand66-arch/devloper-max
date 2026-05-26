@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block any sensitive directories
+Disallow: /images/
+Disallow: /.git/
+
+# Sitemap Location
+Sitemap: https://rstexsolution.com/sitemap.xml
